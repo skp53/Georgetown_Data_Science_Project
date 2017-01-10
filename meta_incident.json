@@ -1,0 +1,15 @@
+{
+    "target_names": {
+        "1": "Yes",
+        "2": "No"
+    },
+    "feature_names": [        
+        "gross_ton",
+        "vlength",
+        "vdepth",        
+        "vessel_class",        
+        "vessel_age",
+        "route_type",
+        "mvaccident"        
+   ]
+}

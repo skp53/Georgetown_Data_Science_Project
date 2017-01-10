@@ -1,0 +1,27 @@
+
+
+Build and Validation of Incident_KNN Classifier took 23.559 seconds
+Validation scores are as follows:
+
+accuracy     0.984906
+f1           0.977656
+precision    0.971600
+recall       0.984906
+dtype: float64
+
+Fitted model written to:
+C:\project\Georgetown_Data_Science_Project\incident_knn-classifier.pickle
+In [22]:
+
+
+Build and Validation of Incident_Random Forest Classifier took 41.644 seconds
+Validation scores are as follows:
+
+accuracy     0.981434
+f1           0.977100
+precision    0.973520
+recall       0.981434
+dtype: float64
+
+Fitted model written to:
+C:\project\Georgetown_Data_Science_Project\incident_random-forest-classifier.pickle

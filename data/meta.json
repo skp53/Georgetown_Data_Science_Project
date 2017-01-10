@@ -1,0 +1,51 @@
+{
+  "feature_names": [
+    "gross_ton",
+    "vlength",
+    "vdepth",
+    "vessel_class",
+    "vessel_age",
+    "route_type",
+    "Accident"
+  ],
+  "categorical_features": {
+    "Accident": [
+      "Yes",
+      "No"
+    ],
+    "vessel_class": [
+      "Recreational",
+      "Barge",
+      "Offshore",
+      "Fishing Vessel",
+      "Towing Vessel",
+      "General Dry Cargo Ship",
+      "Passenger Ship",
+      "Bulk Carrier",
+      "Miscellaneous Vessel",
+      "Tank Ship",
+      "UNSPECIFIED",
+      "Research Ship",
+      "Warship",
+      "Ro-Ro Cargo Ship",
+      "School Ship",
+      "Refrigerated Cargo Ship"
+    ],
+    "route_type": [
+      "UNSPECIFIED",
+      "Oceans",
+      "Lakes, Bays, and Sounds",
+      "Rivers",
+      "Lakes, Bays, and Sounds plus Limited Coastwise",
+      "Coastwise",
+      "Great Lakes",
+      "Lakes, Bays, and Sounds plus Limited Great Lakes",
+      "Rivers plus Limited Great Lakes",
+      "Coastwise and Great Lakes"
+    ]
+  },
+  "target_names": [
+    "Yes",
+    "No"
+  ]
+}
