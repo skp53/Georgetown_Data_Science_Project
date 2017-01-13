@@ -1,0 +1,84 @@
+Country	Group
+AE	Africa
+AG	Africa
+AN	Africa
+AR	South America
+BB	Africa
+BD	Africa
+BE	Africa
+BH	South America
+BM	Asia
+BO	Asia
+BR	South America
+BS	South America
+BZ	South America
+CA	South America
+CH	Asia
+CI	South America
+CK	Asia
+CN	Asia
+CO	South America
+CY	South America
+DE	Europe
+DK	Europe
+DM	Europe
+DO	Europe
+DZ	Europe
+EG	Europe
+ES	South America
+FR	Asia
+GB	Africa
+GE	Africa
+GH	Africa
+GI	Asia
+GP	Asia
+GR	Asia
+GY	Asia
+HK	Africa
+HN	Africa
+HR	Africa
+ID	Asia
+IM	Asia
+IN	Asia
+IT	Asia
+JM	Asia
+JP	Asia
+KI	Europe
+KM	Europe
+KN	Europe
+KR	Europe
+KY	Europe
+LR	Europe
+LT	Europe
+MH	Europe
+MT	Europe
+MV	North America
+MX	North America
+MY	North America
+NG	Europe
+NI	Europe
+NL	Asia
+NO	North America
+PA	North America
+PE	North America
+PH	Asia
+PT	Africa
+PY	Africa
+RU	Africa
+SA	Asia
+SC	Asia
+SG	Asia
+SL	Europe
+SR	Europe
+TC	Asia
+TR	Europe
+TT	Europe
+TV	Asia
+TW	Europe
+TZ	Europe
+US	North America
+UY	North America
+VC	North America
+VE	Africa
+VG	Africa
+VU	Africa
